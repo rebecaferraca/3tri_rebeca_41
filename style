@@ -88,5 +88,5 @@ footer {
     /*altura*/
     height: 3rem;
     /*margem superior*/
-    margin-top: 2rem;
+    margin-top: 2rem;l
 }
